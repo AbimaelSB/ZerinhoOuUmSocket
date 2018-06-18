@@ -94,6 +94,8 @@ while True:
                         n = 0
                         j = 0
                         aux = 0
+                        venc = "empate"
+                        palp = "empate"
                         lista = []
                         players = []
                         zero = []
